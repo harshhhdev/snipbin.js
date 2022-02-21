@@ -122,4 +122,4 @@ git push YOUR_REPO_URL YOUR_BRANCH
 
 # 💙 Credits
 
-Since I haven't written a proper API wrapper before, a big round of thanks to [Ian Hornik](https://github.com/yiliansource) for writing [pastemyst.ts](https://github.com/yiliansource/pastemyst-ts), as this library is built around it.
+Since I haven't written a proper API wrapper before, a big round of thanks to [Ian Hornik](https://github.com/yiliansource) for writing [pastemyst.ts](https://github.com/yiliansource/pastemyst-ts) to help me get a breeze of this.
