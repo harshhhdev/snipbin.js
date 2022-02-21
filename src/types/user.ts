@@ -1,4 +1,4 @@
-import { snip } from '@typings/snip'
+import { snip } from './snip'
 
 /**
  * Represents a snip object on the site.

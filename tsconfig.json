@@ -1,11 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@endpoints/*": ["src/endpoints/*"],
-      "@typings/*": ["src/types/*"],
-      "@src/*": ["src/*"]
-    },
     "esModuleInterop": true,
     "lib": ["ESNext"],
     "module": "esnext",
@@ -22,5 +16,5 @@
   "ts-node": {
     "pretty": true
   },
-  "include": ["./src/"]
+  "include": ["./src/", "test.ts"]
 }

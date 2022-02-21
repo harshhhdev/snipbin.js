@@ -1,6 +1,6 @@
 {
   "name": "snipbin.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "⚡ A TypeScript API wrapper for SnipBin",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -34,6 +34,7 @@
     "dotenv": "^16.0.0",
     "eslint": "^8.9.0",
     "mocha": "^9.2.1",
+    "snipbin.js": "^0.0.3",
     "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
   },

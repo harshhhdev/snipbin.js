@@ -1,5 +1,5 @@
-import { client } from '@src/client'
-import { snip } from '@typings/snip'
+import { client } from '../client'
+import { snip } from '../types/snip'
 
 /**
  * Represents the collection of fields that can be passed when creating a new snip.

@@ -1,5 +1,5 @@
-import { client } from '@src/client'
-import { language } from '@typings/language'
+import { client } from '../client'
+import { language } from '../types/language'
 
 /**
  * Represents an endpoint for detecting the language

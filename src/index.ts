@@ -1,13 +1,14 @@
-import { client } from '@src/client'
+import { client } from './client'
 
-import { Snip } from '@endpoints/snip'
+import { Snip } from './endpoints/snip'
 export const snipbin = new Snip()
 
-import { Detect } from '@endpoints/detect'
+import { Detect } from './endpoints/detect'
 export const detect = new Detect()
 
-export * from '@typings/snip'
-export * from '@typings/user'
+export * from './types/snip'
+export * from './types/user'
+export * from './types/language'
 
 /**
  * Provides an API token to the library, used

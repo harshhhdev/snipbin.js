@@ -1,4 +1,4 @@
-import { user } from '@typings/user'
+import { user } from './user'
 
 /**
  * Represents a snip object on the site.
