@@ -1,6 +1,6 @@
 {
   "name": "snipbin.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "⚡ A TypeScript API wrapper for SnipBin",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
