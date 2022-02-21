@@ -1,7 +1,7 @@
 {
   "name": "snipbin.js",
   "version": "0.0.1",
-  "description": "A Node.js API wrapper for SnipBin",
+  "description": "⚡ A TypeScript API wrapper for SnipBin",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "https://github.com/harshhhdev/snipbin.js",
@@ -43,6 +43,7 @@
   "scripts": {
     "lint": "npx eslint . --ext .ts",
     "build": "tsc",
+    "types": "tsc --declaration",
     "prepare": "yarn build",
     "test": "mocha --timeout 10000 -r ts-node/esm 'tests/*.ts'"
   }
