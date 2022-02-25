@@ -1,7 +1,7 @@
 import { snip } from './snip'
 
 /**
- * Represents a snip object on the site.
+ * Represents a user object on the site.
  *
  * @remarks
  * There is no way to get the different
